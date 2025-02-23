@@ -1,0 +1,7 @@
+[project]
+name = "aoc15"
+version = "0.0.1"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+dev = ["pre-commit==4.1.0", "pytest==8.3.4"]
